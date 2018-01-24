@@ -1,0 +1,2 @@
+# sliderule_dsi_inferential_statistics_exercise_1
+Homework for Springboard Stats
